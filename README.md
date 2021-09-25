@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SnowWolf75
+- 👀 I’m interested in mobile automation, shell scripts, gaming, and so many other things.
+- 🌱 I’m currently learning as much as I can. I have Python and other web languages on lock, currently working on C#/Unity.
